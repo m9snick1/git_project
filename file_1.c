@@ -2,5 +2,5 @@
 
 int main(void)
 {
-	while(3);
+	while(5);
 }
