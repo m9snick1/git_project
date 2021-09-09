@@ -1,0 +1,47 @@
+[33mcommit 7cd4944533c4a6269cc1860d2cecc96ccae2b947[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Федусенко И. С <m9snick1@gmail.com>
+Date:   Thu Sep 9 23:40:48 2021 +0400
+
+    file1 renamed
+
+[33mcommit ac7c85a5e4f1063938b14bfed70baa59229e4ef6[m
+Author: Федусенко И. С <m9snick1@gmail.com>
+Date:   Thu Sep 9 23:38:12 2021 +0400
+
+    file2 deleted
+
+[33mcommit ce97f6c66b8df109bae785a4fb46054a5f64bd49[m
+Author: Федусенко И. С <m9snick1@gmail.com>
+Date:   Thu Sep 9 23:36:37 2021 +0400
+
+    file1 modified file2 created
+
+[33mcommit 7bddbb86ffe13c35bfca10981feec484a1180343[m
+Author: Федусенко И. С <m9snick1@gmail.com>
+Date:   Thu Sep 9 23:36:14 2021 +0400
+
+    file1 modified file2 created
+
+[33mcommit a1d16924a80015f1fa24ae519262214b081af01b[m
+Author: Федусенко И. С <m9snick1@gmail.com>
+Date:   Thu Sep 9 23:31:45 2021 +0400
+
+    deleted ----
+
+[33mcommit e9dfdc9737b3c50b97260cdc42fb73e49e4faec6[m
+Author: Федусенко И. С <m9snick1@gmail.com>
+Date:   Thu Sep 9 23:30:30 2021 +0400
+
+    added ----
+
+[33mcommit e463286c5bd5f50b5f8be1c7d57e5a5aea7d5415[m
+Author: Федусенко И. С <m9snick1@gmail.com>
+Date:   Thu Sep 9 23:28:44 2021 +0400
+
+    second commit
+
+[33mcommit 2994d6404dcfbfb8ae6b6adc799f0ae58d728611[m
+Author: Федусенко И. С <m9snick1@gmail.com>
+Date:   Thu Sep 9 23:23:32 2021 +0400
+
+    first commit
